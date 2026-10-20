@@ -1,10 +1,10 @@
-#Electricity Bill Calculator
+# Electricity Bill Calculator
 
-#Description
+# Description
 
   This program calculates your electricity bill with just simple inputs!
 
-#Version 1
+# Version 1
 
   Input - Asks for your name, past input reading and current input reading.
   Process - Calculates and displays the electricity bill
